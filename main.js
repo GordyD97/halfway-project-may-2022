@@ -24,3 +24,4 @@ let interval = setInterval(() => {
     clearInterval(interval);
   }
 }, 300);
+

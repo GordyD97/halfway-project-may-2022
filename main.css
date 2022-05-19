@@ -1,5 +1,5 @@
 body{
-  background: aquamarine;
+  background: #6388DC;
 }
 
 h1 > span{
@@ -14,5 +14,26 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 95vh;
+  min-height: 100vh;
 }
+
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.img-card{
+height: 250px;
+}
+
+/* todo: 
+create tags for section
+  <p> tag
+  <ul> tag
+  add borders to the boxes or give them padding and margin
+  color text
+  add after and before animations.
+  add pizzaz to the pic
+
+*/
